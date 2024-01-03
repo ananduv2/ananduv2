@@ -1,5 +1,5 @@
 # Anandu B. S.  
-<img style="float:right;border-radius:50%;width:70px;padding:6px;" src="https://scontent.fblr13-1.fna.fbcdn.net/v/t1.6435-9/51929228_2252843841671651_1109067363073916928_n.jpg?_nc_cat=105&cb=99be929b-b574a898&ccb=1-7&_nc_sid=7a1959&_nc_ohc=bwMQDUxsyuwAX9fLmQy&_nc_ht=scontent.fblr13-1.fna&oh=00_AfBnUuLRQNsnNozgtW1OfzttcdSTKZDWYEMqGe8n4yNyvQ&oe=65BB23E0" width="150"  height="150" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px;" src="https://scontent.fblr13-1.fna.fbcdn.net/v/t1.6435-9/51929228_2252843841671651_1109067363073916928_n.jpg?_nc_cat=105&cb=99be929b-b574a898&ccb=1-7&_nc_sid=7a1959&_nc_ohc=bwMQDUxsyuwAX9fLmQy&_nc_ht=scontent.fblr13-1.fna&oh=00_AfBnUuLRQNsnNozgtW1OfzttcdSTKZDWYEMqGe8n4yNyvQ&oe=65BB23E0" width="200"  height="150" />
 <br><br/>
 <span style="float:right;padding:6px"> 
   anandubs1409@gmail.com <br> mobile: +91 813 690 1971 <br> Nationality: Indian<br>Biju Mandiram, <br>Punthalathazham<br>Kilikolloor P.O.<br>Kollam, Kerala - 691004
