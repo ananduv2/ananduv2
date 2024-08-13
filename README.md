@@ -1,13 +1,22 @@
 # Anandu B. S.  
-<img src="https://publicimageurls.s3.ap-south-1.amazonaws.com/dp_square.png" alt="Description" width="300" height="300" />
-<br><br/>
-<span style="float:right;padding:6px"> 
-  anandubs1409@gmail.com <br> mobile: +91 813 690 1971 <br> Nationality: Indian<br>Biju Mandiram, <br>Punthalathazham<br>Kilikolloor P.O.<br>Kollam, Kerala - 691004
-</span>
-<br><br/>
+<table style="border-collapse: collapse; width: 100%;"> 
+	<tr style="border: none;"> 
+		<td style="border: none; vertical-align: top;"> 
+			<img src="https://publicimageurls.s3.ap-south-1.amazonaws.com/dp_square.png" alt="Description" width="300" height="300" /> 
+		</td> 
+		<td style="border: none; padding: 6px; vertical-align: top;"> 
+			<strong>Email:</strong> anandubs1409@gmail.com <br> 
+			<strong>Mobile:</strong> +91 813 690 1971 <br> 
+			<strong>Nationality:</strong> Indian<br>
+			<strong>Address:</strong> <span> Biju Mandiram, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Punthalathazham,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kilikolloor P.O.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kollam, Kerala - 691004 </span>
+		</td> 
+	</tr> 
+</table>
+<br>
+
 <img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fd1.awsstatic.com%2Ftraining-and-certification%2Fcertification-badges%2FAWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="75" height="75">
 
-**#aws** **#gcp** **#devops** **#python** **#docker** **#sre** **#monitoring** **#solutions_architect** **#fastapi**
+**#aws** **#gcp** **#devops** **#python** **#docker** **#sre** **#monitoring** **#solutions_architect** **#fastapi** **#prometheus** **#grafana** **#django** **#flask** 
 
 ## Executive Summary
 
