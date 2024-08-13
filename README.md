@@ -71,7 +71,7 @@
 
 ## Certifications
 
-* [AWS Certified Cloud Practitioner](https://www.certmetrics.com/amazon/electronic_certificate.aspx?cert=ADA3B299A60ED7B82290AAD11A0CDCAFOCEEE511A85466B7FFDC18D58878920B0)
+* [AWS Certified Cloud Practitioner](https://publicimageurls.s3.ap-south-1.amazonaws.com/AWS+Certified+Cloud+Practitioner+certificate.pdf)
 * [AWS Cloud Technical Essentials](https://coursera.org/share/cae4c1950b1749313ee111e4874aae79)
 * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/982a69546fb228fa2817817b24c83175)
 * [AWS S3 Basics](https://coursera.org/share/ec46f202d3ac0d862cf688fdff599a5d)
