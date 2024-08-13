@@ -22,7 +22,7 @@
 
 * 3 year experience in Cloud, DevOps and Python
 * AWS and Python Certification
-* Hand-on experience in AWS, GCP, Python, Docker, Prometheus, Grafana, Jenkins and Elasticsearch
+* Hand-on experience in AWS, GCP, Python, Docker, Prometheus, Grafana, Jenkins , Django and FastAPI
 * Has given sessions on AWS and Python to 1000+ students and working professionals in 5+ countries
 
 ## Working Experience
